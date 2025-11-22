@@ -93,7 +93,7 @@ A cleaned dataset is also included for reuse.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_OnlineRetail_Analysis.git
+git clone https://github.com/simitha2002/CodeAlpha_OnlineRetail_Analysis.git
 cd CodeAlpha_OnlineRetail_Analysis
 ```
 
@@ -138,8 +138,7 @@ df.describe()
 ```
 CodeAlpha_OnlineRetail_Analysis_EDA/
 │
-├── notebooks/
-│   └── Task2.ipynb                   # Main analysis notebook
+├── Task 2.ipynb              # Main analysis notebook                  
 │
 ├── data/
 │   ├── online_retail_II.csv          # Original dataset (uncleaned)
@@ -262,7 +261,7 @@ Contributions are welcome!
 
 ## 📞 Contact
 
-**[Simitha Ummer]**
+**Simitha Ummer**
 
 - LinkedIn: [linkedin.com/in/simitha-ummer](http://www.linkedin.com/in/simitha-ummer-69a848350)
 - GitHub: [github.com/simitha2002](https://github.com/simitha2002)
